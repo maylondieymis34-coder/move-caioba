@@ -1,0 +1,7 @@
+{
+  "name": "MOVE - Mentor Cristão",
+  "description": "Um mentor cristão inteligente focado em crescimento espiritual, apoio emocional e orientação bíblica prática.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
